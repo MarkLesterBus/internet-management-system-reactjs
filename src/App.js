@@ -1,4 +1,3 @@
-import './App.css';
 import Navigation from './components/navbar';
 
 function App() {
